@@ -1,0 +1,2 @@
+# OnSpot-Hackathon
+RETAIL STORE MANAGEMENT SYSTEM
